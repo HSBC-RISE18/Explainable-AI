@@ -35,5 +35,5 @@ In this use case LIME technique is applied on classifiers that are attempting to
 ### Comparison of Clients
 
 <p align="center">
-  <img src="https://github.com/HSBC-RISE18/Explainable-AI/blob/master/data/LIME%20Algorithm.png" width="500"/>
+  <img src="https://github.com/HSBC-RISE18/Explainable-AI/blob/master/data/Comparison%20of%20Clients.png" width="500"/>
 </p>
