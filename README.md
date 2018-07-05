@@ -13,3 +13,11 @@
 </p>
 
 LIME calculates the similarity score via distance metric between permutations and the original observations. Thereafter, it runs the permutations through the predictor to identify the best describing features. The best describing features and the similarity score are used to compute a simpler model e.g. a linear regression. The calculated feature weights of the simpler model provides an explanation of the local behaviour of  the complex model.
+
+### LIME - Python Package
+
+https://github.com/marcotcr/lime our running a project which is about explaining what machine learning classifiers (or models) are doing.
+
+At the moment, it supports explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations).
+
+<a href="https://www.youtube.com/watch?v=hUnRCxnydCc" target="_blank"><img src="https://raw.githubusercontent.com/marcotcr/lime/master/doc/images/video_screenshot.png" width="450" alt="KDD promo video"/></a>
