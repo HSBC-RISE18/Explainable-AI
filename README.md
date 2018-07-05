@@ -16,7 +16,7 @@ LIME calculates the similarity score via distance metric between permutations an
 
 ### LIME - Python Package
 
-https://github.com/marcotcr/lime our running a project which is about explaining what machine learning classifiers (or models) are doing.
+https://github.com/marcotcr/lime is running a project which is about explaining what machine learning classifiers (or models) are doing.
 
 At the moment, it supports explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for local interpretable model-agnostic explanations).
 
